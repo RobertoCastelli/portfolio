@@ -65,3 +65,24 @@ a {
 i:hover {
     transform: scale(1.2);
 }
+
+.js {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+
+.node {
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
+
+.vue {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+
+.vim {
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
+}
