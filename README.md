@@ -1,8 +1,8 @@
 # PORTFOLIO
 
-> A simple yet functional web site to experiment w/ JS & Bootstrap 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d44132eb-9923-47ed-9a60-58cc734dbeee/deploy-status)](https://app.netlify.com/sites/robertocastelliteal/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7fec94af-1d09-46bc-b783-f72bd711e5e2/deploy-status)](https://app.netlify.com/sites/robertocastelli/deploys)
+> A simple yet functional web site to experiment w/ JS & Bootstrap 
 
 Enjoy!
 
