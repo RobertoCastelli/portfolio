@@ -1,16 +1,18 @@
-h1, h2 {
+h1,
+h2 {
     color: #3b5a76;
 }
 
 header {
- height: 200px;
+    height: 200px;
 }
 
 header h1 {
     padding-top: 50px;
 }
 
-header h1, header h5 {
+header h1,
+header h5 {
     letter-spacing: 1px;
     line-height: 1.4em;
     text-align: center;
@@ -62,27 +64,33 @@ a {
     opacity: 0.7;
 }
 
-i:hover {
-    transform: scale(1.2);
-}
 
 .js {
-  background-color: #ffdddd;
-  border-left: 6px solid #f44336;
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
 }
 
 .node {
-  background-color: #ddffdd;
-  border-left: 6px solid #4CAF50;
+    background-color: #ddffdd;
+    border-left: 6px solid #4CAF50;
 }
 
 .vue {
-  background-color: #e7f3fe;
-  border-left: 6px solid #2196F3;
+    background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
 }
 
 
 .vim {
-  background-color: #ffffcc;
-  border-left: 6px solid #ffeb3b;
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+}
+
+.card-header .fas {
+    transition: .3s transform ease-in-out;
+
+}
+
+.card-header .collapsed .fas {
+    transform: rotate(90deg);
 }
