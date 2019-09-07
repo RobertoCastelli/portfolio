@@ -1,7 +1,7 @@
 # PORTFOLIO
 
-> [!NOTE]
-> A simple yet functional web site to experiment w/ JS & Bootstrap 
+[!NOTE]
+A simple yet functional web site to experiment w/ JS & Bootstrap 
 
 ![Portfolio screen](/home/akaro/Documenti/js/github/portfolio/img/gitPortfolio.png)
 
