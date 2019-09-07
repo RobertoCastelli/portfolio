@@ -70,12 +70,12 @@ a {
     border-left: 6px solid #f44336;
 }
 
-.node {
+.vue {
     background-color: #ddffdd;
     border-left: 6px solid #4CAF50;
 }
 
-.vue {
+.node {
     background-color: #e7f3fe;
     border-left: 6px solid #2196F3;
 }
@@ -86,11 +86,16 @@ a {
     border-left: 6px solid #ffeb3b;
 }
 
+.bootstrap {
+    background-color: #e0cfe9;
+    border-left: 6px solid #b73bff;
+}
+
 .card-header .fas {
     transition: .3s transform ease-in-out;
 
 }
 
-.card-header .collapsed .fas {
+.collapsed .fas {
     transform: rotate(90deg);
 }
